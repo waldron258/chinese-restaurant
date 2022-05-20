@@ -2,7 +2,7 @@
 
 Este documento contiene la información necesaria para correr y navegar en el proyecto
 
-**Note: Es importante que la api esté corriendo. Sin esto no es posible realizar ninguna operación.**
+**Nota: Es importante que la api esté corriendo. Sin esto no es posible realizar ninguna operación.**
 
 ## Comandos
 
